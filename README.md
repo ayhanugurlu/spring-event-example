@@ -1,3 +1,3 @@
 # spring-event-example
-TransactionalEventListener
-EventListener
+@TransactionalEventListener
+@EventListener

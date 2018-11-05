@@ -11,7 +11,7 @@ import org.springframework.transaction.event.TransactionalEventListener;
  * Created by Ayhan.Ugurlu on 02/11/2018
  */
 @Component
-public class UserCreatedEventListener {
+public class UserEventListener {
 
     /**
      *
